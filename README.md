@@ -1,4 +1,4 @@
-#Championship
+# Championship
 Acest proiect a fost realizat in cadrul materiei "Retele de calculatoare", anul II, semestrul I.
 
 Proiectul realizeaza o aplicatie client-server pentru a face posibila inscrierea unor persoane la anumite campionate. Acestia au posibilitatea de a alege campionatul la care doresc sa participe, validarea inscrierii reprezentand 
